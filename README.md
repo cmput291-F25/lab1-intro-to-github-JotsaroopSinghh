@@ -1,5 +1,5 @@
 # CMPUT 291 - Lab 1 Readme file
 Name: Jotsaroop Singh  
-CCID: 10716
+CCID: jotsaroo
 Lecture: A2
 Lab: D05
