@@ -1,5 +1,5 @@
 # CMPUT 291 - Lab 1 Readme file
-Name: your-name
-CCID: your-ccid
-Lecture: your-lecture
-Lab: your-lab
+Name: Jotsaroop Singh  
+CCID: 10716
+Lecture: A2
+Lab: D05
